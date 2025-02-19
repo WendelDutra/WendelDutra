@@ -1,5 +1,5 @@
 - 👋 Olá, sou @WendelDutra.
-- 👀 Estou interessado em conhcer mais da área de tecnologia da informação.
+- 👀 Estou interessado em conhecer mais da área de tecnologia da informação.
 - 🌱 Atualmente estou aprendendo análise e desenvolvimento de sistemas.
 
 
